@@ -4,8 +4,7 @@ A program for editing `.wgsl` shaders, written in [Iced](https://github.com/iced
 Halo is currently in very early WIP. Basic functionality is complete, e.g. you can edit shaders and immediately see the 
 results, but it is missing a lot of QOL features.
 
-Big thanks to [relrelb](https://github.com/relrelb) for the [WGSL Sublime SyntaxSet](https://github.
-com/relrelb/sublime-wgsl) 💙
+Big thanks to [relrelb](https://github.com/relrelb) for the [WGSL Sublime SyntaxSet](https://github.com/relrelb/sublime-wgsl) 💙
 
 # 0.1 Roadmap
 ### Easy
